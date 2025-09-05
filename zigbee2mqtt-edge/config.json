@@ -1,8 +1,8 @@
 {
-  "name": "Zigbee2MQTT Edge",
+  "name": "Zigbee2MQTT Edge Луиза 2",
   "version": "edge",
   "slug": "zigbee2mqtt_edge",
-  "description": "Development build of the Zigbee2MQTT add-on",
+  "description": "Development build of the Zigbee2MQTT Luiza-2 add-on",
   "uart": true,
   "udev": true,
   "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-edge",
